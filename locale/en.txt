@@ -1,0 +1,51 @@
+#: locale=en
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_7B348FC4_702A_452F_41CF_58F02D6FC067.text = Behind the community efforts is a robust research network ensuring inclusivity, usability, and impact
+HotspotPanoramaOverlayTextImage_7B344FC4_702A_452F_4188_4A2273AE33AD.text = Governments and institutions are using citizen-collected data for smarter, faster decisions.
+HotspotPanoramaOverlayTextImage_7B34FFC3_702A_4529_41BF_21DF2909278D.text = In the field, citizen scientists collect data that contributes to a virtual 'Digital Twin' of the river
+HotspotPanoramaOverlayTextImage_7B34EFC3_702A_4529_41D3_3049311B64CD.text = Local volunteers are trained as citizen scientists, equipped with tools and knowledge to collect real-time water quality data
+HotspotPanoramaOverlayTextImage_7B34AFC4_702A_452F_41B8_C3BC09FBE19A.text = Participants earn recognition and rewards through digital platforms like YOMA building a learning-to-earning pathway.
+HotspotPanoramaOverlayTextImage_7B349FC5_702A_4529_41CB_4A455BE0D722.text = The Digital Twin is a game-changer. Real-time, people-powered, and scalable.
+HotspotPanoramaOverlayTextImage_7B240FBD_702A_4559_41DB_0D37533DB5C7.text = This is the Limpopo River basin, a lifeline for communities, ecosystems, and nations. Today, citizens are taking the lead in monitoring its health
+HotspotPanoramaOverlayTextImage_7B34AFC5_702A_4529_41DB_7518F816517E.text = Visit the Digital Twin website to explore more stories, tools, and ways to get involved.
+
+## Media
+
+### Audio
+AudioResource_7B548030_702A_5B67_41AA_4D98A009AE74.mp3Url = media/audio_470A38D3_4B89_3339_41CE_E4C54AE0EB1B_en.mp3
+AudioResource_7B54C030_702A_5B67_41B3_7BF5A80DC67C.mp3Url = media/audio_598FA6C6_4BFF_1F18_41AD_4023354DB9AF_en.mp3
+AudioResource_7B54D030_702A_5B67_41D8_90680FC98A73.mp3Url = media/audio_5FF9ECC1_4BF7_1319_41CD_AC485F687156_en.mp3
+AudioResource_7B54F030_702A_5B67_41D0_47F56E114A5F.mp3Url = media/audio_69AF5ABD_6652_5E3E_41BA_0FFDFC8C942F_en.mp3
+AudioResource_7B54E030_702A_5B67_41B5_338C674F8B01.mp3Url = media/audio_775E77BC_6673_D63E_419E_00F5BE704E9A_en.mp3
+
+### Audio Subtitles
+
+### Image
+imlevel_7CCD4003_702E_5B28_41D1_4FDF1ED28055.url = media/panorama_2C628FF6_3794_537E_41C2_593DA6BBEE7D_HS_logqei97_en.png
+imlevel_7C90035B_702E_5DD9_41D0_5CD7530B7F48.url = media/panorama_2C68DDA0_3794_7793_41A8_839FE6FF8F00_HS_l06afdm5_en.png
+imlevel_7C918305_702E_5D29_41CA_211441F4408B.url = media/panorama_2CBC8C1C_3794_D4B3_41C2_6C0E8BF5F1E2_HS_1p9dpyyr_en.png
+imlevel_7C952259_702E_5FD9_41C4_18C68F131499.url = media/panorama_2D143555_3794_D4BD_41B1_E12CE1B44421_HS_o9hcfz4m_en.png
+imlevel_7C7EB14F_702E_5D39_41B1_E3C2C4E3030A.url = media/panorama_2D91C342_3794_CC96_41A9_5D3887E88593_HS_iom1bywx_en.png
+imlevel_7C61B0E6_702E_5CE8_41B9_696D2A05B467.url = media/panorama_2DDF56FA_3794_7577_41C2_E18BC2CCDB6B_HS_9vcm1jwk_en.png
+imlevel_7C9422AA_702E_5F7B_41D2_9E9B91C2EEB4.url = media/panorama_59D33D10_4B89_0D37_41B0_0CAAAFE08836_HS_quo3bp4l_en.png
+imlevel_7C7E61AB_702E_5D79_41C0_0046DD7E3EB5.url = media/panorama_5F9F9149_4B8B_3529_41B0_47A76B772044_HS_5yh3qs7h_en.png
+
+### Title
+panorama_5F9F9149_4B8B_3529_41B0_47A76B772044.label = IMG_20250317_164532_00_015
+panorama_2D143555_3794_D4BD_41B1_E12CE1B44421.label = IMG_20250319_125448_00_034
+panorama_59D33D10_4B89_0D37_41B0_0CAAAFE08836.label = IMG_20250811_140612_00_051
+panorama_2CBC8C1C_3794_D4B3_41C2_6C0E8BF5F1E2.label = IMG_20250812_102540_00_057
+panorama_2D91C342_3794_CC96_41A9_5D3887E88593.label = IMG_20250812_105006_00_058
+panorama_2C628FF6_3794_537E_41C2_593DA6BBEE7D.label = IMG_20250816_124432_00_088
+panorama_2DDF56FA_3794_7577_41C2_E18BC2CCDB6B.label = IMG_20250816_125354_00_090
+panorama_2C68DDA0_3794_7793_41A8_839FE6FF8F00.label = IMG_20250816_153429_00_093
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Limpopo V1
