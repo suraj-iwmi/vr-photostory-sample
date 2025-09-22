@@ -290,6 +290,7 @@
  "audios": [
   "this.audio_598FA6C6_4BFF_1F18_41AD_4023354DB9AF"
  ],
+ "cardboardMenu": "this.Menu_7EF037E0_7311_CC4E_41C4_F51D8A332932",
  "vfov": 180,
  "thumbnailUrl": "media/panorama_2DDF56FA_3794_7577_41C2_E18BC2CCDB6B_t.jpg",
  "class": "Panorama",
@@ -420,6 +421,62 @@
  "class": "PlayList"
 },
 {
+ "fontColor": "#FFFFFF",
+ "rollOverBackgroundColor": "#000000",
+ "selectedBackgroundColor": "#202020",
+ "children": [
+  {
+   "label": "IMG_20250816_124432_00_088",
+   "class": "MenuItem",
+   "click": "this.mainPlayList.set('selectedIndex', 0)"
+  },
+  {
+   "label": "IMG_20250816_125354_00_090",
+   "class": "MenuItem",
+   "click": "this.mainPlayList.set('selectedIndex', 1)"
+  },
+  {
+   "label": "IMG_20250812_105006_00_058",
+   "class": "MenuItem",
+   "click": "this.mainPlayList.set('selectedIndex', 2)"
+  },
+  {
+   "label": "IMG_20250317_164532_00_015",
+   "class": "MenuItem",
+   "click": "this.mainPlayList.set('selectedIndex', 3)"
+  },
+  {
+   "label": "IMG_20250319_125448_00_034",
+   "class": "MenuItem",
+   "click": "this.mainPlayList.set('selectedIndex', 4)"
+  },
+  {
+   "label": "IMG_20250811_140612_00_051",
+   "class": "MenuItem",
+   "click": "this.mainPlayList.set('selectedIndex', 5)"
+  },
+  {
+   "label": "IMG_20250812_102540_00_057",
+   "class": "MenuItem",
+   "click": "this.mainPlayList.set('selectedIndex', 6)"
+  },
+  {
+   "label": "IMG_20250816_153429_00_093",
+   "class": "MenuItem",
+   "click": "this.mainPlayList.set('selectedIndex', 7)"
+  }
+ ],
+ "label": "Media",
+ "id": "Menu_7EF037E0_7311_CC4E_41C4_F51D8A332932",
+ "class": "Menu",
+ "fontFamily": "Arial",
+ "selectedFontColor": "#FFFFFF",
+ "rollOverOpacity": 0.8,
+ "opacity": 0.4,
+ "backgroundColor": "#404040",
+ "rollOverFontColor": "#FFFFFF"
+},
+{
  "autoplay": true,
  "class": "PanoramaAudio",
  "id": "audio_69AF5ABD_6652_5E3E_41BA_0FFDFC8C942F",
@@ -431,26 +488,6 @@
  "data": {
   "label": "data-useful"
  }
-},
-{
- "buttonZoomOut": "this.IconButton_5266705B_5F07_7DC4_41CE_F9B2B5401877",
- "displayPlaybackBar": true,
- "buttonMoveLeft": "this.IconButton_5266705B_5F07_7DC4_41D5_17832A26EB46",
- "buttonRestart": "this.IconButton_5266705B_5F07_7DC4_41BA_9DC5EC13F0B8",
- "buttonPlayLeft": "this.IconButton_5266705B_5F07_7DC4_41C4_C06EEB3DBFC5",
- "viewerArea": "this.MainViewer",
- "id": "MainViewerPanoramaPlayer",
- "touchControlMode": "drag_rotation",
- "mouseControlMode": "drag_acceleration",
- "buttonZoomIn": "this.IconButton_5266705B_5F07_7DC4_41CA_4047298C87B0",
- "buttonCardboardView": "this.IconButton_77BAF39C_6672_CEFE_41C3_33EE65D86428",
- "class": "PanoramaPlayer",
- "buttonMoveDown": "this.IconButton_5266705B_5F07_7DC4_41A9_D1B8058C1D69",
- "buttonMoveUp": "this.IconButton_5266705B_5F07_7DC4_4166_35648BCE8FCF",
- "buttonMoveRight": "this.IconButton_5266705B_5F07_7DC4_41D1_2478984C07CA",
- "buttonPause": "this.IconButton_5266705B_5F07_7DC4_41C7_A597F5CD8E3C",
- "gyroscopeVerticalDraggingEnabled": true,
- "buttonPlayRight": "this.IconButton_5266705B_5F07_7DC4_41B2_33DE428A6E68"
 },
 {
  "initialPosition": {
@@ -726,6 +763,7 @@
  "audios": [
   "this.audio_470A38D3_4B89_3339_41CE_E4C54AE0EB1B"
  ],
+ "cardboardMenu": "this.Menu_7EF037E0_7311_CC4E_41C4_F51D8A332932",
  "vfov": 180,
  "thumbnailUrl": "media/panorama_2C628FF6_3794_537E_41C2_593DA6BBEE7D_t.jpg",
  "class": "Panorama",
@@ -960,6 +998,7 @@
  "audios": [
   "this.audio_775E77BC_6673_D63E_419E_00F5BE704E9A"
  ],
+ "cardboardMenu": "this.Menu_7EF037E0_7311_CC4E_41C4_F51D8A332932",
  "vfov": 180,
  "thumbnailUrl": "media/panorama_2CBC8C1C_3794_D4B3_41C2_6C0E8BF5F1E2_t.jpg",
  "class": "Panorama",
@@ -1226,6 +1265,7 @@
  "partial": false,
  "hfov": 360,
  "pitch": 0,
+ "cardboardMenu": "this.Menu_7EF037E0_7311_CC4E_41C4_F51D8A332932",
  "vfov": 180,
  "thumbnailUrl": "media/panorama_5F9F9149_4B8B_3529_41B0_47A76B772044_t.jpg",
  "class": "Panorama",
@@ -1469,6 +1509,7 @@
  "audios": [
   "this.audio_5FF9ECC1_4BF7_1319_41CD_AC485F687156"
  ],
+ "cardboardMenu": "this.Menu_7EF037E0_7311_CC4E_41C4_F51D8A332932",
  "vfov": 180,
  "thumbnailUrl": "media/panorama_2D91C342_3794_CC96_41A9_5D3887E88593_t.jpg",
  "class": "Panorama",
@@ -1522,6 +1563,26 @@
  "data": {
   "label": "train-the-trainie"
  }
+},
+{
+ "buttonZoomOut": "this.IconButton_5266705B_5F07_7DC4_41CE_F9B2B5401877",
+ "displayPlaybackBar": true,
+ "buttonMoveLeft": "this.IconButton_5266705B_5F07_7DC4_41D5_17832A26EB46",
+ "buttonRestart": "this.IconButton_5266705B_5F07_7DC4_41BA_9DC5EC13F0B8",
+ "buttonPlayLeft": "this.IconButton_5266705B_5F07_7DC4_41C4_C06EEB3DBFC5",
+ "viewerArea": "this.MainViewer",
+ "id": "MainViewerPanoramaPlayer",
+ "touchControlMode": "drag_rotation",
+ "mouseControlMode": "drag_acceleration",
+ "buttonZoomIn": "this.IconButton_5266705B_5F07_7DC4_41CA_4047298C87B0",
+ "buttonCardboardView": "this.IconButton_77BAF39C_6672_CEFE_41C3_33EE65D86428",
+ "class": "PanoramaPlayer",
+ "buttonMoveDown": "this.IconButton_5266705B_5F07_7DC4_41A9_D1B8058C1D69",
+ "buttonMoveUp": "this.IconButton_5266705B_5F07_7DC4_4166_35648BCE8FCF",
+ "buttonMoveRight": "this.IconButton_5266705B_5F07_7DC4_41D1_2478984C07CA",
+ "buttonPause": "this.IconButton_5266705B_5F07_7DC4_41C7_A597F5CD8E3C",
+ "gyroscopeVerticalDraggingEnabled": true,
+ "buttonPlayRight": "this.IconButton_5266705B_5F07_7DC4_41B2_33DE428A6E68"
 },
 {
  "autoplay": true,
@@ -1832,6 +1893,7 @@
  "audios": [
   "this.audio_69AF5ABD_6652_5E3E_41BA_0FFDFC8C942F"
  ],
+ "cardboardMenu": "this.Menu_7EF037E0_7311_CC4E_41C4_F51D8A332932",
  "vfov": 180,
  "thumbnailUrl": "media/panorama_59D33D10_4B89_0D37_41B0_0CAAAFE08836_t.jpg",
  "class": "Panorama",
@@ -2064,6 +2126,7 @@
  "partial": false,
  "hfov": 360,
  "pitch": 0,
+ "cardboardMenu": "this.Menu_7EF037E0_7311_CC4E_41C4_F51D8A332932",
  "vfov": 180,
  "thumbnailUrl": "media/panorama_2C68DDA0_3794_7793_41A8_839FE6FF8F00_t.jpg",
  "class": "Panorama",
@@ -2295,6 +2358,7 @@
  "partial": false,
  "hfov": 360,
  "pitch": 0,
+ "cardboardMenu": "this.Menu_7EF037E0_7311_CC4E_41C4_F51D8A332932",
  "vfov": 180,
  "thumbnailUrl": "media/panorama_2D143555_3794_D4BD_41B1_E12CE1B44421_t.jpg",
  "class": "Panorama",
@@ -2644,6 +2708,266 @@
  }
 },
 {
+ "useHandCursor": false,
+ "maps": [
+  {
+   "hfov": 84.9,
+   "yaw": -96.73,
+   "class": "HotspotPanoramaOverlayMap",
+   "image": {
+    "class": "ImageResource",
+    "levels": [
+     {
+      "url": "media/panorama_2C628FF6_3794_537E_41C2_593DA6BBEE7D_1_HS_0_0_map.gif",
+      "width": 112,
+      "class": "ImageResourceLevel",
+      "height": 16
+     }
+    ]
+   },
+   "pitch": 6.2
+  }
+ ],
+ "class": "HotspotPanoramaOverlay",
+ "areas": [
+  {
+   "class": "HotspotPanoramaOverlayArea",
+   "mapColor": "#FF0000"
+  }
+ ],
+ "rollOverDisplay": false,
+ "enabledInCardboard": true,
+ "items": [
+  {
+   "distance": 29.54,
+   "image": {
+    "class": "ImageResource",
+    "levels": [
+     {
+      "url": "media/panorama_2C628FF6_3794_537E_41C2_593DA6BBEE7D_1_HS_0_0.png",
+      "width": 948,
+      "class": "ImageResourceLevel",
+      "height": 135
+     }
+    ]
+   },
+   "pitch": 6.2,
+   "hfov": 84.9,
+   "yaw": -96.73,
+   "class": "HotspotPanoramaOverlayImage"
+  }
+ ],
+ "id": "overlay_23F493B2_3873_B3F7_41C7_D33E397E3838",
+ "data": {
+  "label": "This is the Limpopo River basin, a lifeline for communities, ecosystems, and nations. Today, citizens are taking the lead in monitoring its health"
+ }
+},
+{
+ "inertia": false,
+ "hfov": 30,
+ "class": "TripodCapPanoramaOverlay",
+ "distance": 50,
+ "rotate": false,
+ "id": "panorama_2C628FF6_3794_537E_41C2_593DA6BBEE7D_tcap0",
+ "angle": 0,
+ "image": {
+  "class": "ImageResource",
+  "levels": [
+   {
+    "url": "media/panorama_2C628FF6_3794_537E_41C2_593DA6BBEE7D_tcap0.png",
+    "width": 850,
+    "class": "ImageResourceLevel",
+    "height": 850
+   }
+  ]
+ }
+},
+{
+ "inertia": false,
+ "hfov": 30,
+ "class": "CeilingCapPanoramaOverlay",
+ "distance": 50,
+ "rotate": false,
+ "id": "panorama_2C628FF6_3794_537E_41C2_593DA6BBEE7D_ccap0",
+ "angle": 180,
+ "image": {
+  "class": "ImageResource",
+  "levels": [
+   {
+    "url": "media/panorama_2C628FF6_3794_537E_41C2_593DA6BBEE7D_tcap0.png",
+    "width": 850,
+    "class": "ImageResourceLevel",
+    "height": 850
+   }
+  ]
+ }
+},
+{
+ "useHandCursor": true,
+ "maps": [
+  {
+   "hfov": 62.99,
+   "yaw": 161.84,
+   "class": "HotspotPanoramaOverlayMap",
+   "image": {
+    "class": "ImageResource",
+    "levels": [
+     {
+      "url": "media/panorama_2CBC8C1C_3794_D4B3_41C2_6C0E8BF5F1E2_0_HS_0_0_map.gif",
+      "width": 99,
+      "class": "ImageResourceLevel",
+      "height": 16
+     }
+    ]
+   },
+   "pitch": 20.33
+  }
+ ],
+ "class": "HotspotPanoramaOverlay",
+ "areas": [
+  {
+   "class": "HotspotPanoramaOverlayArea",
+   "mapColor": "#FF0000"
+  }
+ ],
+ "rollOverDisplay": false,
+ "enabledInCardboard": true,
+ "items": [
+  {
+   "distance": 50,
+   "image": {
+    "class": "ImageResource",
+    "levels": [
+     {
+      "url": "media/panorama_2CBC8C1C_3794_D4B3_41C2_6C0E8BF5F1E2_0_HS_0_0.png",
+      "width": 746,
+      "class": "ImageResourceLevel",
+      "height": 120
+     }
+    ]
+   },
+   "pitch": 20.33,
+   "hfov": 62.99,
+   "yaw": 161.84,
+   "class": "HotspotPanoramaOverlayImage"
+  }
+ ],
+ "id": "overlay_774F5BCD_6652_7E5E_41D4_2FEFDB4EF603",
+ "data": {
+  "label": "The Digital Twin is a game-changer. Real-time, people-powered, and scalable."
+ }
+},
+{
+ "useHandCursor": true,
+ "maps": [
+  {
+   "hfov": 57.55,
+   "yaw": -21,
+   "class": "HotspotPanoramaOverlayMap",
+   "image": {
+    "class": "ImageResource",
+    "levels": [
+     {
+      "url": "media/panorama_5F9F9149_4B8B_3529_41B0_47A76B772044_1_HS_0_0_map.gif",
+      "width": 38,
+      "class": "ImageResourceLevel",
+      "height": 16
+     }
+    ]
+   },
+   "pitch": 23.89
+  }
+ ],
+ "class": "HotspotPanoramaOverlay",
+ "areas": [
+  {
+   "class": "HotspotPanoramaOverlayArea",
+   "mapColor": "#FF0000"
+  }
+ ],
+ "rollOverDisplay": false,
+ "enabledInCardboard": true,
+ "items": [
+  {
+   "distance": 50,
+   "image": {
+    "class": "ImageResource",
+    "levels": [
+     {
+      "url": "media/panorama_5F9F9149_4B8B_3529_41B0_47A76B772044_1_HS_0_0.png",
+      "width": 699,
+      "class": "ImageResourceLevel",
+      "height": 293
+     }
+    ]
+   },
+   "pitch": 23.89,
+   "hfov": 57.55,
+   "yaw": -21,
+   "class": "HotspotPanoramaOverlayImage"
+  }
+ ],
+ "id": "overlay_580EAF54_4B8B_0D3F_41C7_1924E5B34219",
+ "data": {
+  "label": "Behind the community efforts is a robust research network ensuring inclusivity, usability, and impact"
+ }
+},
+{
+ "useHandCursor": true,
+ "maps": [
+  {
+   "hfov": 54.83,
+   "yaw": 114.77,
+   "class": "HotspotPanoramaOverlayMap",
+   "image": {
+    "class": "ImageResource",
+    "levels": [
+     {
+      "url": "media/panorama_2D91C342_3794_CC96_41A9_5D3887E88593_1_HS_0_0_map.gif",
+      "width": 70,
+      "class": "ImageResourceLevel",
+      "height": 16
+     }
+    ]
+   },
+   "pitch": 12.17
+  }
+ ],
+ "class": "HotspotPanoramaOverlay",
+ "areas": [
+  {
+   "class": "HotspotPanoramaOverlayArea",
+   "mapColor": "#FF0000"
+  }
+ ],
+ "rollOverDisplay": false,
+ "enabledInCardboard": true,
+ "items": [
+  {
+   "distance": 50,
+   "image": {
+    "class": "ImageResource",
+    "levels": [
+     {
+      "url": "media/panorama_2D91C342_3794_CC96_41A9_5D3887E88593_1_HS_0_0.png",
+      "width": 623,
+      "class": "ImageResourceLevel",
+      "height": 141
+     }
+    ]
+   },
+   "pitch": 12.17,
+   "hfov": 54.83,
+   "yaw": 114.77,
+   "class": "HotspotPanoramaOverlayImage"
+  }
+ ],
+ "id": "overlay_586DB335_4BFA_F578_41C8_D0E1AAFD21BE",
+ "data": {
+  "label": "In the field, citizen scientists collect data that contributes to a virtual 'Digital Twin' of the river"
+ }
+},
+{
  "horizontalAlign": "center",
  "id": "IconButton_5266705B_5F07_7DC4_41CE_F9B2B5401877",
  "backgroundOpacity": 0,
@@ -2921,266 +3245,6 @@
   "name": "Button49929"
  },
  "cursor": "hand"
-},
-{
- "useHandCursor": false,
- "maps": [
-  {
-   "hfov": 84.9,
-   "yaw": -96.73,
-   "class": "HotspotPanoramaOverlayMap",
-   "image": {
-    "class": "ImageResource",
-    "levels": [
-     {
-      "url": "media/panorama_2C628FF6_3794_537E_41C2_593DA6BBEE7D_1_HS_0_0_map.gif",
-      "width": 112,
-      "class": "ImageResourceLevel",
-      "height": 16
-     }
-    ]
-   },
-   "pitch": 6.2
-  }
- ],
- "class": "HotspotPanoramaOverlay",
- "areas": [
-  {
-   "class": "HotspotPanoramaOverlayArea",
-   "mapColor": "#FF0000"
-  }
- ],
- "rollOverDisplay": false,
- "enabledInCardboard": true,
- "items": [
-  {
-   "distance": 29.54,
-   "image": {
-    "class": "ImageResource",
-    "levels": [
-     {
-      "url": "media/panorama_2C628FF6_3794_537E_41C2_593DA6BBEE7D_1_HS_0_0.png",
-      "width": 948,
-      "class": "ImageResourceLevel",
-      "height": 135
-     }
-    ]
-   },
-   "pitch": 6.2,
-   "hfov": 84.9,
-   "yaw": -96.73,
-   "class": "HotspotPanoramaOverlayImage"
-  }
- ],
- "id": "overlay_23F493B2_3873_B3F7_41C7_D33E397E3838",
- "data": {
-  "label": "This is the Limpopo River basin, a lifeline for communities, ecosystems, and nations. Today, citizens are taking the lead in monitoring its health"
- }
-},
-{
- "inertia": false,
- "hfov": 30,
- "class": "TripodCapPanoramaOverlay",
- "distance": 50,
- "rotate": false,
- "id": "panorama_2C628FF6_3794_537E_41C2_593DA6BBEE7D_tcap0",
- "angle": 0,
- "image": {
-  "class": "ImageResource",
-  "levels": [
-   {
-    "url": "media/panorama_2C628FF6_3794_537E_41C2_593DA6BBEE7D_tcap0.png",
-    "width": 850,
-    "class": "ImageResourceLevel",
-    "height": 850
-   }
-  ]
- }
-},
-{
- "inertia": false,
- "hfov": 30,
- "class": "CeilingCapPanoramaOverlay",
- "distance": 50,
- "rotate": false,
- "id": "panorama_2C628FF6_3794_537E_41C2_593DA6BBEE7D_ccap0",
- "angle": 180,
- "image": {
-  "class": "ImageResource",
-  "levels": [
-   {
-    "url": "media/panorama_2C628FF6_3794_537E_41C2_593DA6BBEE7D_tcap0.png",
-    "width": 850,
-    "class": "ImageResourceLevel",
-    "height": 850
-   }
-  ]
- }
-},
-{
- "useHandCursor": true,
- "maps": [
-  {
-   "hfov": 62.99,
-   "yaw": 161.84,
-   "class": "HotspotPanoramaOverlayMap",
-   "image": {
-    "class": "ImageResource",
-    "levels": [
-     {
-      "url": "media/panorama_2CBC8C1C_3794_D4B3_41C2_6C0E8BF5F1E2_0_HS_0_0_map.gif",
-      "width": 99,
-      "class": "ImageResourceLevel",
-      "height": 16
-     }
-    ]
-   },
-   "pitch": 20.33
-  }
- ],
- "class": "HotspotPanoramaOverlay",
- "areas": [
-  {
-   "class": "HotspotPanoramaOverlayArea",
-   "mapColor": "#FF0000"
-  }
- ],
- "rollOverDisplay": false,
- "enabledInCardboard": true,
- "items": [
-  {
-   "distance": 50,
-   "image": {
-    "class": "ImageResource",
-    "levels": [
-     {
-      "url": "media/panorama_2CBC8C1C_3794_D4B3_41C2_6C0E8BF5F1E2_0_HS_0_0.png",
-      "width": 746,
-      "class": "ImageResourceLevel",
-      "height": 120
-     }
-    ]
-   },
-   "pitch": 20.33,
-   "hfov": 62.99,
-   "yaw": 161.84,
-   "class": "HotspotPanoramaOverlayImage"
-  }
- ],
- "id": "overlay_774F5BCD_6652_7E5E_41D4_2FEFDB4EF603",
- "data": {
-  "label": "The Digital Twin is a game-changer. Real-time, people-powered, and scalable."
- }
-},
-{
- "useHandCursor": true,
- "maps": [
-  {
-   "hfov": 57.55,
-   "yaw": -21,
-   "class": "HotspotPanoramaOverlayMap",
-   "image": {
-    "class": "ImageResource",
-    "levels": [
-     {
-      "url": "media/panorama_5F9F9149_4B8B_3529_41B0_47A76B772044_1_HS_0_0_map.gif",
-      "width": 38,
-      "class": "ImageResourceLevel",
-      "height": 16
-     }
-    ]
-   },
-   "pitch": 23.89
-  }
- ],
- "class": "HotspotPanoramaOverlay",
- "areas": [
-  {
-   "class": "HotspotPanoramaOverlayArea",
-   "mapColor": "#FF0000"
-  }
- ],
- "rollOverDisplay": false,
- "enabledInCardboard": true,
- "items": [
-  {
-   "distance": 50,
-   "image": {
-    "class": "ImageResource",
-    "levels": [
-     {
-      "url": "media/panorama_5F9F9149_4B8B_3529_41B0_47A76B772044_1_HS_0_0.png",
-      "width": 699,
-      "class": "ImageResourceLevel",
-      "height": 293
-     }
-    ]
-   },
-   "pitch": 23.89,
-   "hfov": 57.55,
-   "yaw": -21,
-   "class": "HotspotPanoramaOverlayImage"
-  }
- ],
- "id": "overlay_580EAF54_4B8B_0D3F_41C7_1924E5B34219",
- "data": {
-  "label": "Behind the community efforts is a robust research network ensuring inclusivity, usability, and impact"
- }
-},
-{
- "useHandCursor": true,
- "maps": [
-  {
-   "hfov": 54.83,
-   "yaw": 114.77,
-   "class": "HotspotPanoramaOverlayMap",
-   "image": {
-    "class": "ImageResource",
-    "levels": [
-     {
-      "url": "media/panorama_2D91C342_3794_CC96_41A9_5D3887E88593_1_HS_0_0_map.gif",
-      "width": 70,
-      "class": "ImageResourceLevel",
-      "height": 16
-     }
-    ]
-   },
-   "pitch": 12.17
-  }
- ],
- "class": "HotspotPanoramaOverlay",
- "areas": [
-  {
-   "class": "HotspotPanoramaOverlayArea",
-   "mapColor": "#FF0000"
-  }
- ],
- "rollOverDisplay": false,
- "enabledInCardboard": true,
- "items": [
-  {
-   "distance": 50,
-   "image": {
-    "class": "ImageResource",
-    "levels": [
-     {
-      "url": "media/panorama_2D91C342_3794_CC96_41A9_5D3887E88593_1_HS_0_0.png",
-      "width": 623,
-      "class": "ImageResourceLevel",
-      "height": 141
-     }
-    ]
-   },
-   "pitch": 12.17,
-   "hfov": 54.83,
-   "yaw": 114.77,
-   "class": "HotspotPanoramaOverlayImage"
-  }
- ],
- "id": "overlay_586DB335_4BFA_F578_41C8_D0E1AAFD21BE",
- "data": {
-  "label": "In the field, citizen scientists collect data that contributes to a virtual 'Digital Twin' of the river"
- }
 },
 {
  "useHandCursor": true,
