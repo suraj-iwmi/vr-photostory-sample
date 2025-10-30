@@ -1,5 +1,9 @@
 {
+ "theme_color": "#FFFFFF",
+ "start_url": "index.htm?installed=true",
  "display": "fullscreen",
+ "background_color": "#FFFFFF",
+ "name": "Limpopo V1",
  "icons": [
   {
    "src": "misc/icon150.png",
@@ -36,9 +40,5 @@
    "type": "image/png",
    "sizes": "64x64"
   }
- ],
- "theme_color": "#FFFFFF",
- "background_color": "#FFFFFF",
- "name": "Limpopo V1",
- "start_url": "index.htm?installed=true"
+ ]
 }
